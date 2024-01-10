@@ -1,22 +1,21 @@
-[ 
-      { 
-            id: 1, 
-            title: "Ноутбук ASUS VivoBook M1605YA-MB341", 
-            price: 20000
+[  { 
+            "id": 1, 
+            "title": "Ноутбук ASUS VivoBook M1605YA-MB341", 
+            "price": 20000
       },
       {
-        id: 2,
-        title: "Смартфон Samsung Galaxy S23 Ultra 12/256GB",
-        price: 1500
+        "id": 2,
+        "title": "Смартфон Samsung Galaxy S23 Ultra 12/256GB",
+        "price": 1500
       },
       {
-        id: 3,
-        title: "Ноутбук Xiaomi RedmiBook 15 Gray (JYU4525RU)",
-        price: 5000
+       "id": 3,
+        "title": "Ноутбук Xiaomi RedmiBook 15 Gray (JYU4525RU)",
+        "price": 5000
       },
       { 
-            id: 4, 
-            title: "Умная колонка Яндекс Новая Станция Мини", 
-            price: 4500 
+            "id": 4, 
+            "title": "Умная колонка Яндекс Новая Станция Мини", 
+            "price": 4500 
       }
 ]
