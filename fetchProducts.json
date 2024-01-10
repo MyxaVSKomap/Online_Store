@@ -2,7 +2,7 @@
       { 
             id: 1, 
             title: "Ноутбук ASUS VivoBook M1605YA-MB341", 
-            price: 20000 
+            price: 20000,
       },
       {
         id: 2,
