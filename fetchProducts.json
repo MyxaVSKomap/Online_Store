@@ -1,42 +1,42 @@
 [
   {
-		"id": 1, 
-  	"title": "Ноутбук ASUS VivoBook M1605YA-MB341", 
-    "price": 20000
+		"id":1, 
+  	"title":"Ноутбук ASUS VivoBook M1605YA-MB341", 
+    "price":20000
   },
   {
-    "id": 2,
-    "title": "Смартфон Samsung Galaxy S23 Ultra 12/256GB",
-    "price": 1500
+    "id":2,
+    "title":"Смартфон Samsung Galaxy S23 Ultra 12/256GB",
+    "price":1500
   },
   {
-  	"id": 3,
-    "title": "Ноутбук Xiaomi RedmiBook 15 Gray (JYU4525RU)",
-    "price": 5000
+  	"id":3,
+    "title":"Ноутбук Xiaomi RedmiBook 15 Gray (JYU4525RU)",
+    "price":5000
    },
    { 
-    "id": 4, 
-    "title": "Умная колонка Яндекс Новая Станция Мини", 
-    "price": 4500 
+    "id":4, 
+    "title":"Умная колонка Яндекс Новая Станция Мини", 
+    "price":4500 
    },
    { 
-    "id": 5, 
-    "title": "Набор ручных инструментов в кейсе, 152 предмета", 
-    "price": 1399 
+    "id":5, 
+    "title":"Набор ручных инструментов в кейсе, 152 предмета", 
+    "price":1399 
    },
    { 
-    "id": 6, 
-    "title": "Набор инструмента Makita D-42014", 
-    "price": 2200 
+    "id":6, 
+    "title":"Набор инструмента Makita D-42014", 
+    "price":2200 
    },
    { 
-    "id": 7, 
-    "title": "Набор ручного инструмента BORT BTK-30e", 
-    "price": 3850 
+    "id":7, 
+    "title":"Набор ручного инструмента BORT BTK-30e", 
+    "price":3850 
    },
    { 
-    "id": 8, 
-    "title": "Ноутбук Apple MacBook M3 Pro 14, 18 Gb, 512 Gb, silver", 
-    "price": 230060 
+    "id":8, 
+    "title":"Ноутбук Apple MacBook M3 Pro 14, 18 Gb, 512 Gb, silver", 
+    "price":230060 
    }
 ]
