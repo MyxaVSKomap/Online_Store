@@ -1,4 +1,4 @@
-{ 
+[
   {
    "id": 1, 
    "title": "Ноутбук ASUS VivoBook M1605YA-MB341", 
@@ -9,4 +9,4 @@
     "title": "Смартфон Samsung Galaxy S23 Ultra 12/256GB",
     "price": 1500
   }
-}
+]
